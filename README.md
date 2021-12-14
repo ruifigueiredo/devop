@@ -1,7 +1,7 @@
 # devop
 
 ## Vagrant Kubernetes
-
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W3ZIV7)
 
 ```shell
 git clone https://github.com/ruifigueiredo/devop.git
